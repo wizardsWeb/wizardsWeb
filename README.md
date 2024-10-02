@@ -12,6 +12,8 @@ I'm a **MERN stack developer** with a passion for building full-stack web applic
 - 📫 Feel free to reach out for collaboration or to discuss web development ideas!
 - 📧 Connect with me at voravinay6@gmail.com
 
+<div style="margin-bottom: 30px;" />
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VinayVora) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wizardsWeb) 
 
