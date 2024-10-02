@@ -5,7 +5,7 @@ I'm a **MERN stack developer** with a passion for building full-stack web applic
 
 ## 🚀 About Me
 
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="180px" height='180px' align="right" alt="">
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="180px" height='160px' align="right" alt="">
 
 - 👀 I’m interested in Full-Stack Development, Machine Learning, and DevOps.
 - 🏆 I am interested in participating hackathons, project showcases where I can gained valuable team and project experience.
@@ -24,7 +24,7 @@ I'm a **MERN stack developer** with a passion for building full-stack web applic
 
 <div align="center">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=wizardsWeb&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="345" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wizardsWeb&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardsWeb&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&card_width=345" height="195" />
   </div>
   <div style="margin-top: 20px;">
