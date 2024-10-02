@@ -25,7 +25,7 @@ I'm a **MERN stack developer** with a passion for building full-stack web applic
 <div align="center">
   <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=wizardsWeb&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardsWeb&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&card_width=445" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardsWeb&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&card_width=345" height="195" />
   </div>
   <div style="margin-top: 20px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardsWeb&theme=dark&hide_border=true" />
