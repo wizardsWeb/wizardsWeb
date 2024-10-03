@@ -5,7 +5,7 @@ I'm a **MERN stack developer** with a passion for building full-stack web applic
 
 ## 🚀 About Me
 
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="180px" height='160px' align="right" alt="">
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="180px" height='170px' align="right" alt="">
 
 - 👀 I’m interested in Full-Stack Development, Machine Learning, and DevOps.
 - 🏆 I am interested in participating hackathons, project showcases where I can gained valuable team and project experience.
