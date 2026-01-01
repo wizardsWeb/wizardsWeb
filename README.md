@@ -1,7 +1,7 @@
 <div align="center" style="position: relative; margin-bottom: -80px;">
   <!-- Capsule Background -->
 <img
- src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=280&section=header&text=Hey!%20I'm%20WizardsWeb%20👋&fontSize=60&fontColor=fff&fontAlignY=38"
+ src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=Hey!%20I'm%20WizardsWeb%20👋&fontSize=60&fontColor=fff&fontAlignY=38"
  width="100%"
 />
 
@@ -110,17 +110,17 @@ wizard.say_hi()
 
 ### 💻 Languages & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,go,rust,php,ruby&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,php&theme=dark" />
 </p>
 
 ### 🎨 Frontend Magic
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,,tailwind,bootstrap,sass,html,css&theme=dark" />
 </p>
 
 ### ⚙️ Backend Powerhouse
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,dotnet,graphql,nestjs,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql,prisma&theme=dark" />
 </p>
 
 ### 🤖 AI/ML & Data Science
@@ -136,12 +136,12 @@ wizard.say_hi()
 
 ### 🗄️ Databases & Caching
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase,supabase,cassandra&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase,supabase&theme=dark" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,terraform,ansible,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,nginx&theme=dark" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -151,7 +151,7 @@ wizard.say_hi()
 
 ### 📱 Mobile & Cross-Platform
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio,kotlin,swift&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" />
 </p>
 
 </div>
