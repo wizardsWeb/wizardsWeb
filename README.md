@@ -72,9 +72,9 @@ wizard.say_hi()
 
 ### 🏅 Quick Stats
 ```
-🏆 Hackathons Won: 10+        📊 Projects Built: 50+
-⭐ GitHub Stars: Growing       🤝 Open Source PRs: 35+
-☕ Coffee Consumed: ∞          🐛 Bugs Fixed: Too Many to Count
+🏆 Hackathons Won: 10+               📊 Projects Built: 50+
+⭐ GitHub Stars: Growing             🤝 Open Source PRs: 35+
+☕ Coffee Consumed: ∞                 🐛 Bugs Fixed: Too Many to Count
 ```
 
 <br/>
