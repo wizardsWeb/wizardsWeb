@@ -187,23 +187,21 @@ wizard.say_hi()
 
 <div align="center">
 
-| 🏆 Hackathon | 📅 Year | 🎯 Achievement | 💰 Prize |
-|:-------------|:-------:|:---------------|:---------|
-| **Google GenAI Exchange** | 2025 | 🥉 3rd Runner Up | ₹50,000 |
-| **IIT Bombay Techfest AI** | 2025 | 🥇 AI Eduthon Winner | ₹1,00,000 |
-| **IIT Delhi Bytes Runner** | 2025 | 🥇 AI Category Champion | ₹75,000 |
-| **BITS Pilani TechXlerate** | 2025 | 🥇 AI Innovation Winner | ₹60,000 |
-| **ACE 2.0 Hackathon** | 2025 | 🥇 Grand Winner | ₹50,000 |
-| **Next Hack** | 2025 | 🥇 AI Track Winner | ₹40,000 |
-| **DCC Innohacks** | 2025 | 🥇 Champion | ₹30,000 |
-| **Google Agentic AI** | 2025 | 🏅 Finalist | Recognition |
-| **Brainrot Global** | 2024 | 🏆 TPIA Winner | $500 |
-| **Code Kong Global** | 2025 | 🥈 Runner Up | $300 |
-| **Redact SPIT** | 2025 | 🥈 Special Choice | ₹25,000 |
-| **Hacktoberfest** | 2025 | 🌟 Super Contributor | Swag Pack |
-| **Source Start** | 2024 | 🌟 Top Contributor | 28 PRs |
-
-**Total Winnings: ₹5,30,000+ ($6,500+)** 🎉
+| 🏆 Hackathon | 📅 Year | 🎯 Achievement |
+|:-------------|:-------:|:---------------|
+| **Google GenAI Exchange** | 2025 | 🥉 3rd Runner Up | 
+| **IIT Bombay Techfest AI** | 2025 | 🥇 AI Eduthon Winner | 
+| **IIT Delhi Bytes Runner** | 2025 | 🥇 AI Category Champion | 
+| **BITS Pilani TechXlerate** | 2025 | 🥇 AI Innovation Winner | 
+| **ACE 2.0 Hackathon** | 2025 | 🥇 Grand Winner |
+| **Next Hack** | 2025 | 🥇 AI Track Winner |
+| **DCC Innohacks** | 2025 | 🥇 Champion | 
+| **Google Agentic AI** | 2025 | 🏅 Finalist | 
+| **Brainrot Global** | 2024 | 🏆 TPIA Winner | 
+| **Code Kong Global** | 2025 | 🥈 Runner Up | 
+| **Redact SPIT** | 2025 | 🥈 Special Choice | 
+| **Hacktoberfest** | 2025 | 🌟 Super Contributor | 
+| **Source Start** | 2024 | 🌟 Top Contributor | 
 
 </div>
 
