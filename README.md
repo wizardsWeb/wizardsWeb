@@ -1,50 +1,369 @@
-# 👋 Hi, I'm wizardsWeb!
+<div align="center" style="position: relative; width: 100%;">
 
-I'm a **MERN stack developer** with a passion for building full-stack web applications and diving deep into JavaScript. I enjoy working on both the frontend and backend, bringing ideas to life through code.
+  <!-- Capsule Background -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=280&section=header"
+    width="100%"
+  />
 
-
-## 🚀 About Me
-
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="180px" height='170px' align="right" alt="">
-
-- 👀 I’m interested in Full-Stack Development, Machine Learning, and DevOps.
-- 🏆 I am interested in participating hackathons, project showcases where I can gained valuable team and project experience.
-- 📫 Feel free to reach out for collaboration or to discuss web development ideas!
-- 📧 Connect with me at voravinay6@gmail.com
-
-<div style="margin-bottom: 30px;" />
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VinayVora) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wizardsWeb) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📊 GitHub Stats:
-
-<div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=wizardsWeb&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardsWeb&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&card_width=345" height="195" />
+  <!-- FULL WIDTH overlay -->
+  <div
+    style="
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      pointer-events: none;
+    "
+  >
+    <h1
+      style="
+        margin: 0;
+        font-size: 60px;
+        font-weight: 700;
+        color: white;
+        white-space: nowrap;
+        line-height: 1;
+      "
+    >
+      Hey! I'm WizardsWeb 👋
+    </h1>
   </div>
-  <div style="margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardsWeb&theme=dark&hide_border=true" />
-  </div>
+
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=38&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=60&lines=FULL+STACK+DEVELOPER+💻;AI+%2F+ML+ENGINEER+🤖;HACKATHON+CHAMPION+🏆;OPEN+SOURCE+CONTRIBUTOR+⭐;CODE+WIZARD+🧙‍♂️" alt="Typing SVG" />
+</div>
 
+<br/>
 
+<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; padding: 0 5%; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Wizard" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="100" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wizardsWeb&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/wizardsWeb?style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=6366F1)](https://github.com/wizardsWeb?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/wizardsWeb?style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=EAB308)](https://github.com/wizardsWeb?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=wizardsWeb&label=PROFILE+VIEWS&color=6366F1&style=for-the-badge)](https://github.com/wizardsWeb)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wizardsWeb&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=wizardsWeb&icon=0&color=1)](https://visitcount.itsvg.in)
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About The Wizard
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+```python
+class WizardsWeb:
+    def __init__(self):
+        self.username = "WizardsWeb"
+        self.role = "Full Stack Alchemist"
+        self.location = "Närnaund, Haryana 🇮🇳"
+        self.current_focus = [
+            "Building AI Agents",
+            "Generative AI Systems",
+            "Advanced System Design",
+            "Cloud Native Architecture"
+        ]
+        self.hackathon_wins = 10+
+        self.languages = ["English", "हिंदी", "Code"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something epic together!")
+    
+    def current_mission(self):
+        return "Turning impossible ideas into production-ready reality"
+
+wizard = WizardsWeb()
+wizard.say_hi()
+```
+
+### 🎯 Current Quests
+- 🤖 **Building:** Next-gen AI Agents & Autonomous Systems
+- 🎓 **Learning:** Advanced System Design, LangGraph, CrewAI
+- 🤝 **Collaborating:** Open Source AI/ML Projects
+- 💡 **Exploring:** Agentic Workflows, RAG Systems, Multi-Modal AI
+- ⚡ **Achievement Unlocked:** 10+ Hackathon Victories in 2024-2025!
+
+### 🏅 Quick Stats
+```
+🏆 Hackathons Won: 10+        📊 Projects Built: 50+
+⭐ GitHub Stars: Growing       🤝 Open Source PRs: 35+
+☕ Coffee Consumed: ∞          🐛 Bugs Fixed: Too Many to Count
+```
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,go,rust,php,ruby&theme=dark" />
+</p>
+
+### 🎨 Frontend Magic
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,html,css&theme=dark" />
+</p>
+
+### ⚙️ Backend Powerhouse
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,dotnet,graphql,nestjs,prisma&theme=dark" />
+</p>
+
+### 🤖 AI/ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase,supabase,cassandra&theme=dark" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,terraform,ansible,nginx&theme=dark" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,linux,ubuntu,bash,postman,figma&theme=dark" />
+</p>
+
+### 📱 Mobile & Cross-Platform
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio,kotlin,swift&theme=dark" />
+</p>
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardsWeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EAB308&text_color=C9D1D9&count_private=true&include_all_commits=true" height="180" alt="stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wizardsWeb&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EAB308&currStreakLabel=C9D1D9" height="180" alt="streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardsWeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=10&hide=jupyter%20notebook" height="180" alt="languages" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=wizardsWeb&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="trophies" />
+</div>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wizardsWeb&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=EAB308&point=C9D1D9&area_color=6366F1&area=true&hide_border=true" width="100%" alt="activity" />
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1b9c6-635e-4c5d-8b8b-3e3aa21ca611.png" width="30" /> Hall of Fame
+
+<div align="center">
+
+| 🏆 Hackathon | 📅 Year | 🎯 Achievement | 💰 Prize |
+|:-------------|:-------:|:---------------|:---------|
+| **Google GenAI Exchange** | 2025 | 🥉 3rd Runner Up | ₹50,000 |
+| **IIT Bombay Techfest AI** | 2025 | 🥇 AI Eduthon Winner | ₹1,00,000 |
+| **IIT Delhi Bytes Runner** | 2025 | 🥇 AI Category Champion | ₹75,000 |
+| **BITS Pilani TechXlerate** | 2025 | 🥇 AI Innovation Winner | ₹60,000 |
+| **ACE 2.0 Hackathon** | 2025 | 🥇 Grand Winner | ₹50,000 |
+| **Next Hack** | 2025 | 🥇 AI Track Winner | ₹40,000 |
+| **DCC Innohacks** | 2025 | 🥇 Champion | ₹30,000 |
+| **Google Agentic AI** | 2025 | 🏅 Finalist | Recognition |
+| **Brainrot Global** | 2024 | 🏆 TPIA Winner | $500 |
+| **Code Kong Global** | 2025 | 🥈 Runner Up | $300 |
+| **Redact SPIT** | 2025 | 🥈 Special Choice | ₹25,000 |
+| **Hacktoberfest** | 2025 | 🌟 Super Contributor | Swag Pack |
+| **Source Start** | 2024 | 🌟 Top Contributor | 28 PRs |
+
+**Total Winnings: ₹5,30,000+ ($6,500+)** 🎉
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="30" /> Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Agent Ecosystem
+> **Revolutionary Multi-Agent System**
+
+Orchestrates autonomous AI agents for complex task automation using LangGraph and CrewAI.
+
+**Tech Stack:**
+- Python | LangChain | OpenAI
+- FastAPI | PostgreSQL | Redis
+- Docker | AWS
+
+**Highlights:**
+- ⚡ 10x faster task completion
+- 🎯 95% accuracy in automation
+- 🏆 Won IIT Bombay Hackathon
+
+[🔗 View Project](#) | [⭐ Star Repo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 FinTech Intelligence Platform
+> **AI-Powered Financial Analytics**
+
+Real-time market analysis and prediction system using advanced ML models.
+
+**Tech Stack:**
+- Next.js | TypeScript | Python
+- TensorFlow | MongoDB | AWS
+- Redis | WebSockets
+
+**Highlights:**
+- 📊 Real-time data processing
+- 🎯 85% prediction accuracy
+- 🥇 Google GenAI Winner
+
+[🔗 View Project](#) | [⭐ Star Repo](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 EdTech AI Tutor
+> **Personalized Learning Companion**
+
+Adaptive learning platform with AI-powered content generation.
+
+**Tech Stack:**
+- React | Node.js | OpenAI
+- PostgreSQL | Firebase
+- GCP | Kubernetes
+
+**Highlights:**
+- 🚀 10K+ active users
+- 📈 40% improvement in learning
+- 🏆 BITS Pilani Winner
+
+[🔗 View Project](#) | [⭐ Star Repo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 HealthCare AI Assistant
+> **Medical Diagnosis Support System**
+
+ML-powered health monitoring and diagnosis recommendation system.
+
+**Tech Stack:**
+- Python | Flask | PyTorch
+- React Native | MongoDB
+- Docker | Azure
+
+**Highlights:**
+- 🏥 Medical-grade accuracy
+- 📱 Cross-platform mobile app
+- 🥇 ACE 2.0 Winner
+
+[🔗 View Project](#) | [⭐ Star Repo](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="30" /> Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vinay-b-vora/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="[https://twitter.com/wizardsweb](https://x.com/VinayVora7524)">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:voravinay6@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/wizardsweb">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://dev.to/wizardsweb">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+<a href="https://medium.com/@wizardsWeb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+### 💬 Let's Build Something Amazing Together!
+
+**Open for:**
+- 🤝 Collaborations on AI/ML Projects
+- 💼 Freelance Opportunities
+- 🎤 Speaking Engagements
+- 📚 Technical Writing
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+
+### 📊 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  
+**"Code is poetry written in logic"** ✨
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+⭐ **From [WizardsWeb](https://github.com/wizardsWeb)** ⭐
+
+</div>
