@@ -162,7 +162,7 @@ wizard.say_hi()
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wizardsWeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EAB308&text_color=C9D1D9&count_private=true&include_all_commits=true" height="180" alt="stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=wizardsWeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EAB308&text_color=C9D1D9&count_private=true&include_all_commits=true" height="180" alt="stats" /> -->
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=wizardsWeb&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EAB308&currStreakLabel=C9D1D9" height="180" alt="streak" />
 </div>
@@ -170,9 +170,9 @@ wizard.say_hi()
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardsWeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=10&hide=jupyter%20notebook" height="180" alt="languages" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=wizardsWeb&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="trophies" />
+  <img src="https://github-readme-stats-personal-three.vercel.app/api?username=wizardsWeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EAB308&text_color=C9D1D9&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats-personal-three.vercel.app/api/top-langs/?username=wizardsWeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=10&hide=jupyter%20notebook" height="180" alt="Top Languages" />
 </div>
 
 <br/>
